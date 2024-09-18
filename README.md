@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @GabrielGod1
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html/css/js, electron, ts
-- 🌱🌱 I want to learn react.js/next.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Economist and developer of applications, extensions, and code blocks for diverse environments, specializing in finance, risk management, and productivity. Skilled in web development, data analytics, and risk modeling.
+https://www.gabrielgod1.com
 
 <!---
 GabrielGod1/GabrielGod1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
